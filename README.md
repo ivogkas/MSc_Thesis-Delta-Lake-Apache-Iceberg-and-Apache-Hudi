@@ -1,6 +1,6 @@
 # MSc_Thesis-Delta-Lake-Apache-Iceberg-and-Apache-Hudi
 
-This repository contains the final thesis for the MSc degree in Data Science and Machine Learning at the National Technical University of Athens (NTUA). You can find the thesis document and presentation slides.
+This repository contains the final thesis for the MSc degree in Data Science and Machine Learning at the National Technical University of Athens (NTUA). You can find the thesis document (in Greek) and presentation slides (in English).
 
 ## 🎯 Purpose of the Study
 
