@@ -1,5 +1,7 @@
 # MSc_Thesis-Delta-Lake-Apache-Iceberg-and-Apache-Hudi
 
+This repository contains the final thesis for the MSc degree in Data Science and Machine Learning at the National Technical University of Athens (NTUA).
+
 ## 🎯 Purpose of the Study
 
 This study aims to **analyze and experimentally evaluate** the performance of three popular Log-Structured Table (LST) data storage systems — **Delta Lake**, **Apache Iceberg**, and **Apache Hudi** — under a variety of workload scenarios.
